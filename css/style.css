@@ -39,8 +39,33 @@ nav img{
     padding: 10px;
 }
 
-
-
+/* Menu dropdown */
+/* style sur le button */
+    .dropbtn{
+        margin-right: 10px;
+        padding: 10px;
+        cursor: pointer;
+    }
+/* Le container div a besion d'une position */
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+/* dropdown-item */
+.dropdown-item{
+    display: block;
+    position: absolute;
+    background: #efefef;
+    min-width: 160px;
+    z-index: 1;
+}
+/* lien dans le dropdown */
+.dropdown-item a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
 /* header */
 
 /* footer 1 */

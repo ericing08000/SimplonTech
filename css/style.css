@@ -1,0 +1,48 @@
+/* body */
+body{
+    margin: 0px;
+}
+/* nav */
+nav.container{
+    background: #e2e2e2;
+    min-height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+}
+
+div.container{
+    background: #e2e2e2;
+    display: flex;
+    align-items: center;
+}
+
+.item{
+    padding: 10px;
+    margin: 10px;
+    color:red;
+}
+
+
+nav a{
+    text-decoration: none;
+
+    color:#474747;
+}
+nav a:hover{
+    color:black;
+    
+}
+
+
+nav img{
+    padding: 10px;
+}
+
+
+
+/* header */
+
+/* footer 1 */
+
+/* footer 2 */

@@ -1,0 +1,34 @@
+/* Menu produit */
+
+/* Conteneur : dropdown_produit */
+.dropdown_produit{
+    position: relative;
+    display: inline-block;}
+
+/* Sous-conteneur : drop_item_prod */
+.drop_item_prod{
+    display: none;
+    position: absolute;
+    right: 0;
+    min-width: 160px;
+    z-index: 1;
+    background: rgba(145, 145, 145, 0.3);}
+
+/* Lien <a> : drop_item_prod a */
+.drop_item_prod a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color:#474747;}
+
+/* Survole sur le lien <a> */
+.drop_item_prod a:hover{
+    background:rgba(145, 145, 145, 0.3);
+    color: white;}
+    
+/* Faire apparaitre le menu */
+.dropdown_produit:hover .drop_item_prod{
+    display: block;}
+
+
+/* Fin menu produit */

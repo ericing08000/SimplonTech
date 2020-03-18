@@ -15,7 +15,11 @@
     width: 350px;
     min-height: 280px;
     z-index: 1;
+<<<<<<< HEAD
     background: rgb(199, 199, 199);
+=======
+    background: rgba(145, 145, 145, 0.2);
+>>>>>>> 0a763386a9ce148fef3002388d17c4e18a3fd329
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;

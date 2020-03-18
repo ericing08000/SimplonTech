@@ -12,9 +12,13 @@
     right: 0;
     min-width: 160px;
     z-index: 1;
+<<<<<<< HEAD
     background: rgb(199, 199, 199);
     -o-border-radius: 5px;
     box-shadow: 5px 5px 5px black;}
+=======
+    background: rgba(145, 145, 145, 0.3);}
+>>>>>>> 0a763386a9ce148fef3002388d17c4e18a3fd329
 
 /* Lien <a> : drop_item_prod a */
 .drop_item_prod a{

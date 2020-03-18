@@ -1,0 +1,16 @@
+1 ) M'afficher le resultat le plus grand
+2 ) M'afficher le resultat le plus petit
+3 ) Echanger le contenu de la variable a et b
+4 ) Additionner la variable a et b
+5 ) Afficher un nombre aléatoire entre 1 et 100 ;
+6 ) Afficer un nombre aléatoire entre 5 et 10 ;
+7 ) Faire une fonction Addition ;
+8 ) Générer un chiffre aléatoire entre 1 et 100, "je suis nul si x < 50" sinon je suis bon 
+
+9 ) Faire une fonction qui prend en paramètre x (nombre aléatoire entre 0 et 5), si x==1 alors afficher AAAA, 
+si x==2 alors afficher BBBB, si x==3 alors afficher CCCC, si x==4 alors afficher DDDD, sinon je suis une perruche.
+
+9 ) Faire la question 10 avec l'utilisation d'un switch Case
+10 ) Générer 10 valeur aléatoire, et afficher les 10 variable
+11 ) Ajouter 10 valeur aléatoire dans un tableau
+12 ) Parcourir ce tableau et afficher l'addition de tous ces résultats

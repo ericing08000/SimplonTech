@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/styleMenuProd.css">
-    <link rel="stylesheet" href="css/styleform.css">
-    <title>Document</title>
-</head>
-<body>
 <!-- Barre de navigation -->
 <nav class="container">
     <img src="image/Logo.png" alt="logo">
@@ -57,33 +46,5 @@
                     </div>
             </div>
         </div>     
-</nav><!-- Fin Barre de navigation -->
-
-<header>
-
-    <div id="slider">
-        <div id="wrapper">
-            <ul id="slides">
-                <li><img src="image/Slider1.png" alt="#" class="slide"></li>
-                <li><img src="image/Slider2.png" alt="#" class="slide"></li>
-                <li><img src="image/Slider3.png" alt="#" class="slide"></li>
-            </ul>
-        </div>
-    </div>
-
-</header><!-- Fin header -->
-
-<footer>
-
-</footer><!-- Fin footer 1 -->
-
-<footer>
-
-</footer><!-- Fin footer 2 -->
-
-    
-</body>
-</html>
-
-
-
+</nav>
+<!-- Fin Barre de navigation -->

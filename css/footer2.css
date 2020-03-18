@@ -1,0 +1,29 @@
+.footer2{
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+
+.footer2 p{
+    color: white;
+}
+
+#retourhaut{
+    min-width: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#retourhaut p{
+    text-align: center;
+    list-style-type: none;
+    color: white;
+}
+
+#retourhaut a{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}

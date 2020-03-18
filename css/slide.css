@@ -1,0 +1,55 @@
+/* Balise ul */
+ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+/*  slider */
+#slider{
+    display: flex;
+    justify-content: center;
+}
+
+/* Images */
+.slide{
+    width: 1800px;
+    height: 600px;
+    float: left;
+}
+
+/* masque des images */
+#wrapper{
+    /* margin: auto; */
+    width: 1800px;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+
+}
+
+
+/*  Slides qui enveloppe les images */
+#slides{
+    width: 5400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: sliderauto 30s infinite;
+    -webkit-animation: sliderauto 30s infinite;
+    -moz-animation: sliderauto 30s infinite;
+    -o-animation: sliderauto 30s infinite;
+}
+
+@-webkit-keyframes sliderauto{
+
+    0%{left: 0;}
+    16%{left: 0;}
+
+    33%{left: -1802px;}
+    49%{left: -1802px;}
+
+    66%{left: -3604px;}
+    82%{left: -3604px;}
+
+    100%{left: 0;}
+}

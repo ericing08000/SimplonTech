@@ -1,0 +1,54 @@
+/* Menu formulaire */
+
+/* Conteneur : dropform */
+.dropform{
+    position: relative;
+    display: inline-block;
+    
+}
+
+/* Sous-conteneur : dropformitem */
+.dropformitem{
+    display: none;
+    position: absolute;
+    right: 0;
+    width: 350px;
+    min-height: 280px;
+    z-index: 1;
+    background: rgb(199, 199, 199);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+/* Lien <p> : dropformitem p */
+.dropformitem {
+    display: none;
+    padding: 10px;
+}
+
+/* Faire apparaitre le menu */
+.dropform:hover .dropformitem{
+    display: block;}
+
+table{
+    padding: 10px;
+    width: 350px;
+}
+
+.top{
+    vertical-align: top;
+}
+
+input#mail, textarea{
+    width: 250px;
+}
+
+label{
+    color: black;
+}
+
+/* Fin menu formulaire */
